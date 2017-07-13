@@ -4,3 +4,5 @@ hiking
 run
 sing
 think
+dating
+dancing
