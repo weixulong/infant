@@ -1,0 +1,11 @@
+iron
+mercury
+gold
+silver
+aluminum
+copper
+calcium
+zinc
+tin
+lead
+
